@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Monish TM — Senior QA Automation Engineer & SDET Portfolio
 
 A personal portfolio web application built for **Monish TM**, Senior QA Automation Engineer & SDET with 5+ years of experience in **Selenium WebDriver, Playwright, Core Java, TypeScript, Cucumber BDD, RestAssured API Testing, and Azure CI/CD Pipelines**.
@@ -74,3 +75,7 @@ npx serve .
 
 2. **Vercel or Netlify**:
    - Drag and drop the `Portfolio_Monish` folder into [Netlify Drop](https://app.netlify.com/drop) or import from GitHub on [Vercel](https://vercel.com).
+=======
+# Portfolio
+Testing_cv
+>>>>>>> 6f4fbcb2ad7d41f682e40cd2a71697e5da8b8b00
